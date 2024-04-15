@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on 100Devs. I'm currently learning about GitHub and Objects in Javascript.
+
 <!--
 **frazierDevs/frazierDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
